@@ -17,4 +17,3 @@ Internship Type - Work from Home
 3)Data can be found at http://bit.ly/w 
 4)You can use R, Python, SAS Enterprise Miner or any other tool. 
 5)What will be predicted score if a student studies for 9.25 hrs/ day? 
-
