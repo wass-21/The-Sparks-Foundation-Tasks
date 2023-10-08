@@ -12,7 +12,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/NZXr4bSGUWo)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=p7LmYhr4QFQ)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/wass-21/The-Sparks-Foundation-Tasks/blob/main/Task-1_Linear_Regression.ipynb)
 1. Predict the percentage of marks of an student based on the number of study hours.
 1. This is a simple linear regression task as it involves just 2 variables.
