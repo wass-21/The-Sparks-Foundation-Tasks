@@ -23,7 +23,7 @@ _Please click on the images on right side to view my solution._
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=Qr7kgMG9jHw&t=1s)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]() 
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/wass-21/The-Sparks-Foundation-Tasks/blob/main/Task-2_Clustering.ipynb) 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 1. Use R or Python or perform this task.
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
