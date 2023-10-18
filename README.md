@@ -20,3 +20,10 @@ _Please click on the images on right side to view my solution._
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
+### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+_Please click on the images on right side to view my solution._
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>]()
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
+1.From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+2.Use R or Python or perform this task.
+3.Data can be found at https://bit.ly/3cGyP8j
